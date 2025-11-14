@@ -1,7 +1,7 @@
 # Post-Quantum Cryptography in Vehicular Opportunistic Networks  
 **Author:** Darko Konstantinovikj  
 **Year:** 2025  
-**Supervisor:** [Your Name]
+**Supervisor:** Samaneh Rashidibajgan
 
 ---
 
