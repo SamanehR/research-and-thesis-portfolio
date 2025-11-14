@@ -1,7 +1,7 @@
 # Key Exchange Mechanisms Using Post-Quantum Algorithms in Opportunistic Environments  
 **Author:** Thanh Thien Nguyen  
 **Year:** 2025  
-**Supervisor:** [Samaneh Rashidibajgan]
+**Supervisor:** Samaneh Rashidibajgan
 
 ---
 
