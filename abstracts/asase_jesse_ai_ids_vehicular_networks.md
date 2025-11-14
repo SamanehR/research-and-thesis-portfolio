@@ -1,7 +1,7 @@
 # AI-Driven Threat Detection in Vehicular Networks  
 **Author:** Jesse Leiyawor Asase  
 **Year:** 2025  
-**Supervisor:** [Your Name]
+**Supervisor:** Samaneh Rashidibajgan
 
 ---
 
