@@ -11,3 +11,9 @@ A PQC-based key exchange and authentication framework using LWE and Ring-BinLWE 
 **Keywords:** PQC, Vehicular Opportunistic Networks, NIZK, Dilithium  
 **Summary:**  
 A quantum-resistant authentication scheme for vehicular opportunistic networks, based on NIZKs and Dilithium, designed to secure VON communication under mobility, resource constraints, and quantum-era threats.
+
+### **3. Jesse Leiyawor Asase — AI-Driven Threat Detection in Vehicular Networks (2025)**  
+📁 `abstracts/asase_jesse_ai_ids_vehicular_networks.md`  
+**Keywords:** IDS, Machine Learning, CAN Security, V2X, Anomaly Detection  
+**Summary:**  
+A machine-learning based intrusion detection system for CAN traffic using the X-CANIDS dataset, evaluating Random Forest and SVM for detecting spoofing, fuzzing, replay, and suspension attacks in vehicular networks.
