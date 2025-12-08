@@ -33,6 +33,7 @@ within simulated opportunistic scenarios using The ONE simulator. Our analysis d
 the feasibility of deploying post-quantum security primitives in highly dynamic,
 resource-constrained environments, providing a foundation for future-proof secure communication
 in mobile, ad hoc, and infrastructure-less networks.
+
 ---
 
 ## Keywords
